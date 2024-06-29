@@ -16,6 +16,5 @@ Features
 
 and its responsivness 
 
-![responsive 1](https://github.com/azainadil/project1-responsive-page/assets/143929142/2257861e-71c8-41e6-9d16-e142012349bf)
-
+![responsive 1](https://github.com/azainadil/project1-responsive-page/assets/143929142/2257861e-71c8-41e6-9d16-e142012349bf)                                                                                             
 ![responsive 2](https://github.com/azainadil/project1-responsive-page/assets/143929142/3c004e6f-a2f2-45e5-8c25-f486c989b605)
