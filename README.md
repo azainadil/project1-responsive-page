@@ -6,7 +6,9 @@ This project showcases a simple webpage layout using HTML and styled with CSS. I
 Features
 
 1.Basic HTML structure
+
 2.CSS styling for layout and backgrounds
+
 3.Responsive design 
 
 *here is the website
